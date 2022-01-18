@@ -1,1 +1,9 @@
 # Project-2K22
+- PHP 
+- HTML
+- CSS
+- BOOTSTRAP 
+- TAILWIND CSS
+- REACT 
+- ANGULAR
+- MYSQL
