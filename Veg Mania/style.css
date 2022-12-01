@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.customNavbar{
+}
+.custom{
+ height: 50vh;
+ background-image: url(bg.avif);
+ opacity: .7;
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+
+}
+.customHeight{
+    height: 80vh;
+}
